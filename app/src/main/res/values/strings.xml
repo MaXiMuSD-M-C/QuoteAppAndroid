@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txt_citas">Citas</string>
+    <string name="txt_autor">Autor</string>
+    <string name="txt_frase">Frase</string>
+    <string name="txt_mostrar_otra_cita">Mostrar otra cita</string>
+    <string name="txt_compartir_en_redes_sociales">Compartir en redes sociales</string>
+</resources>
